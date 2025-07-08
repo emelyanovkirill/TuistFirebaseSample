@@ -1,0 +1,3 @@
+[tools]
+tuist  = "4.13.0" # external dependency - linked error (undefined symbol)
+# tuist = "4.12.1" # external dependecy - ok
